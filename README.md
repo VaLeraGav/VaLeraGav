@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋, my name is Valera
+- :computer: I’m interested in developing on PHP
+- 📫 How to reach me: valleragavrin@gmail.com
 
 <!--
 **VaLeraGav/VaLeraGav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
