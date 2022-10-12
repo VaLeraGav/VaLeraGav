@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Valera
+## Hi there 👋
 - :computer: I’m interested in developing on PHP
 - 📫 How to reach me: valleragavrin@gmail.com
 
