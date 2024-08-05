@@ -1,5 +1,5 @@
 ## Hi there 👋
-- :computer: I’m interested in developing on PHP
+- :computer: I’m interested in developing
 - 📫 How to reach me: valleragavrin@gmail.com
 
 <!--
